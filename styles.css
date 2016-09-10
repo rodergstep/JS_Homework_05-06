@@ -1,0 +1,36 @@
+.wrapper {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: Tahoma;
+    }
+
+h1 {
+    font-size: 35px;
+    margin: 5%;
+    color: tomato;
+   }
+
+span {
+    width: 10%;
+    display: inline-block;
+    font-size: 400%;
+    text-align: center;
+    }
+
+.buttons {
+    text-align: center;
+    margin: 3%;
+    }
+
+.stopwatch {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+   }
+
+.timecounter {
+    width: 100%;
+    font-size: 200%;
+    color: #ccc;
+    }
+
